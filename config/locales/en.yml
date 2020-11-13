@@ -285,7 +285,7 @@ en:
   footer:
     legal: Terms
     privpolicy: Privacy Policy
-    powered_by: Powered by %{href}.
+    powered_by: Configured by %{href}.
   forgot_password:
     subtitle: Forgot Password
     email: Email
